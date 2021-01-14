@@ -2,10 +2,41 @@ body{
     background-color: #ffffff;
   }
   
+
+.roundedImage{
+      overflow:hidden;
+      -webkit-border-radius:50px;
+      -moz-border-radius:50px;
+      border-radius:50px;
+      width:90px;
+      height:90px;
+      box-shadow: 0px 0px 20px #aaaaaa;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;S
+  }
+
+  header{
+    background-color: #ADD8E6;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    font-family: 'Open Sans', sans-serif;
+    color : #34495E;
+    text-align: center;
+  }
+
+
+
+
+
 #page{
     margin-left: 200px;
     margin-right: 200px;
     background-color: #e7e7e7;
+    font-family: 'Open Sans', sans-serif;
+    color : #34495E;
   }
 
 .colcol{
@@ -15,11 +46,5 @@ body{
   }
   
 
-header{
-    background-color: #ADD8E6;
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
 
 
