@@ -1,8 +1,6 @@
 body{
-    background-color: #ffffff;
-  }
-  
-
+  background-color: #ffffff;
+}
 .roundedImage{
   display: inline-block;
   border: 2px dotted rgb(255, 255, 255);
@@ -14,36 +12,29 @@ img {
   width: inherit;
   height: inherit;
   border-radius: inherit;
-  }
-
-  header{
-    background-color: #ADD8E6;
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
-    font-family: 'Open Sans', sans-serif;
-    color : #34495E;
-    text-align: center;
-  }
-
-
-
-
-
+}
+header{
+  background-color: #ADD8E6;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  font-family: 'Open Sans', sans-serif;
+  color : #34495E;
+  text-align: center;
+}
 #page{
-    margin-left: 200px;
-    margin-right: 200px;
-    background-color: #e7e7e7;
-    font-family: 'Open Sans', sans-serif;
-    color : #34495E;
-  }
-
+  margin-left: 200px;
+  margin-right: 200px;
+  background-color: #e7e7e7;
+  font-family: 'Open Sans', sans-serif;
+  color : #34495E;
+}
 .colcol{
-    margin:5em;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-  }
+  margin:5em;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+ }
   
 
 
